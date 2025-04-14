@@ -1,0 +1,50 @@
+
+*{margin: 0;
+}
+    h1{
+    background-color: black;
+    color: bisque;
+    padding: 15px;
+}
+.table{
+    margin-top: 50px;
+    padding: 30px;
+    padding-right: 50px;
+    
+}
+select{
+    margin-left: 0px;
+    padding: 10px;
+    padding-left: 3px;
+    width: 185px;
+}
+.deparment{
+    margin-top: 40px;
+
+}
+
+form{
+    padding: 10%;
+}
+td{
+    padding: 10px;
+    margin-top: 10px;
+    font-size: larger;
+}
+input{
+    padding: 10px;
+}
+.submit:hover{
+    
+    color:red;
+    margin-left: 70%;
+    
+}
+select:hover{
+    background-color: aqua;
+    
+    color: wheat;
+}
+.option:hover{
+    color: wheat;
+}
